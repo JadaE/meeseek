@@ -1,0 +1,26 @@
+{
+
+    "name": "meeseek",
+
+    "version": "0.0.1",
+
+    "description": "Free bot does free things",
+
+    "main": "bot.js",
+
+    "author": "Jada Ebong",
+
+    "dependencies": {
+
+        "discord.io": "^2.5.3",
+
+        "discord.js": "^13.6.0",
+
+        "dotenv": "^16.0.0",
+
+        "winston": "^3.6.0"
+
+    }
+
+}
+
